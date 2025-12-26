@@ -62,8 +62,9 @@ The application implements time-based caching (TTL), early cache resolution, and
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+```txt
 src/
  ├── app/
  │   ├── page.tsx
@@ -83,8 +84,6 @@ src/
  │   └── dashboardStore.ts
  │
  └── utils/
-
----
 
 ## Environment Setup
 
